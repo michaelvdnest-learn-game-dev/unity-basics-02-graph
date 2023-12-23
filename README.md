@@ -12,6 +12,13 @@ The purpose of this project is to provide a practical example of using Unity gam
 
 - Author: [Jasper Flick](https://catlikecoding.com/)
 
+## Progress
+
+- [x] **Creating a Line of Cubes:** Start by creating a simple line of cubes to represent the graph.
+- [x] **Creating More Cubes:** Expand the graph by adding more cubes, enhancing its complexity.
+- [ ] **Coloring the Graph:** Add visual appeal by introducing colors to represent different aspects of the graph.
+- [ ] **Animating the Graph:** Bring the graph to life with animations, making it dynamic and engaging.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
