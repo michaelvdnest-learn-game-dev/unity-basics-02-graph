@@ -28,7 +28,12 @@ The purpose of this project is to provide a practical example of using Unity gam
     <img src="./images/more-cubes.jpg" />
 </p
 
-- [ ] **Coloring the Graph:** Add visual appeal by introducing colors to represent different aspects of the graph.
+- [x] **Coloring the Graph:** Add visual appeal by introducing colors to represent different aspects of the graph.
+
+<p align="center">
+    <img src="./images/color-the-graph.jpg" />
+</p
+
 - [ ] **Animating the Graph:** Bring the graph to life with animations, making it dynamic and engaging.
 
 ## License
