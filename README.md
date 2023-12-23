@@ -2,7 +2,9 @@
 
 This Unity project uses game objects to build a graph so that mathematical formulas are showcased based on the tutorial [Building a Graph](https://catlikecoding.com/unity/tutorials/basics/building-a-graph/) by [Jasper Flick](https://catlikecoding.com/).
 
-
+<p align="center">
+    <img src="./images/graph-animation.gif" />
+</p>
 
 ## Overview
 
@@ -26,15 +28,23 @@ The purpose of this project is to provide a practical example of using Unity gam
 
 <p align="center">
     <img src="./images/more-cubes.jpg" />
-</p
+</p>
 
 - [x] **Coloring the Graph:** Add visual appeal by introducing colors to represent different aspects of the graph.
 
 <p align="center">
     <img src="./images/color-the-graph.jpg" />
-</p
+</p>
 
-- [ ] **Animating the Graph:** Bring the graph to life with animations, making it dynamic and engaging.
+- [x] **Animating the Graph:** Bring the graph to life with animations, making it dynamic and engaging.
+
+<p align="center">
+    <img src="./images/graph-animation.gif" />
+</p>
+
+<p align="center">
+    <img src="./images/graph-animation.gif" />
+</p>
 
 ## License
 

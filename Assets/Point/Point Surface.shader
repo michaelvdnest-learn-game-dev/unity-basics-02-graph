@@ -31,7 +31,8 @@ Shader "Graph/Point Surface"
             // Base the color of the cube on the world position
             // Halve the position and then add ½ to fit the graph's -1 to 1 domain
             // Ignore the z coordinate blue channel
-            surface.Albedo.rg = input.worldPos.xy * 0.5 + 0.5;
+            // clamp all components to 0 – 1 using saturate
+            surface.Albedo.rg = saturate(input.worldPos.xy * 0.5 + 0.5);
 
             // Smoothness comes from a slider variable
             surface.Smoothness = _Smoothness;

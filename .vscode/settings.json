@@ -51,5 +51,8 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "unity-beginner-graph.sln"
+    "dotnet.defaultSolution": "unity-beginner-graph.sln",
+    "cSpell.words": [
+        "Mathf"
+    ]
 }
