@@ -12,7 +12,7 @@ The purpose of this project is to provide a practical example of using Unity gam
 
 - Author: [Jasper Flick](https://catlikecoding.com/)
 
-## Progress
+## Progress Checklist
 
 - [x] **Creating a Line of Cubes:** Start by creating a simple line of cubes to represent the graph.
 - [x] **Creating More Cubes:** Expand the graph by adding more cubes, enhancing its complexity.
