@@ -16,6 +16,14 @@ The purpose of this project is to provide a practical example of using Unity gam
 
 - Author: [Jasper Flick](https://catlikecoding.com/)
 
+## Getting Started
+
+To begin working with this project, follow these steps:
+
+1. Clone or download the repository to your local machine.
+2. Open the project in Unity.
+3. Add the `SampleScene` to the Hierarchy.
+
 ## Progress Checklist
 
 - [x] **Creating a Line of Cubes:** Start by creating a simple line of cubes to represent the graph.
